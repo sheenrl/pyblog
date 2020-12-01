@@ -19,4 +19,6 @@ def main():
 
 
 if __name__ == '__main__':
+    print('这是自己运行时出现的代码')
     main()
+    print('这是自己运行时出现的代码')
